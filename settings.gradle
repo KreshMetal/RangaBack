@@ -1,0 +1,5 @@
+rootProject.name = 'Ranga'
+include 'App'
+include 'Authorisation'
+include 'common'
+
